@@ -67,7 +67,7 @@ div{
     float: left;
     width: 150px;
     height: 150px;
-    background-color: #85795c;
+    background-color: #3bb68e;
     margin-left: 20px;
     margin-bottom: 20px;
 }
@@ -212,7 +212,7 @@ div{
     border-bottom: 2px solid #fff;
 }
 #tilesmall6:hover{
-    background-color: #423C2E;
+    background-color: #236d55;
     cursor: pointer;
     border-bottom: 2px solid #fff;
 }
