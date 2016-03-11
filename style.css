@@ -1,0 +1,198 @@
+body{
+    background-color: dimgray;
+
+}
+div{
+     text-justify: inter-word;
+}
+#kontener{
+    width: 1040px;
+    height: auto;
+    margin: auto;
+}
+#toptile{
+    color: white;
+    width: 1000px;
+    margin: 20px;
+    text-align: center;
+    background-color: blue;
+    height: 150px;
+    font-size: 100px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+#tilesmall1{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #359bed;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilesmall2{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #ff4006;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilesmall3{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #04aeda;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilesmall4{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #7dc211;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilesmall5{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #ffbc0e;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilesmall6{
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: #85795c;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#tilegroup{
+    margin-bottom: 200px;
+}
+.tilepic{
+    margin: 25px;
+    text-align: center;
+    
+}
+#whitebox1{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#whitebox2{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#whitebox3{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#whitebox4{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#whitebox5{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#whitebox6{
+    width: 1000px;
+    float: bottom;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    height: auto;
+    display: none;
+}
+#textbox1{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#textbox2{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#textbox3{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#textbox4{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#textbox5{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#textbox6{
+    width: 1000px;
+    float: bottom;
+    display: none;
+    text-align: center;
+}
+#tilesmall1:hover{
+    background-color: #1f5d8e;
+    cursor: pointer;
+}
+#tilesmall2:hover{
+    background-color: #992603;
+    cursor: pointer;
+}
+#tilesmall3:hover{
+    background-color: #027998;
+    cursor: pointer;
+}
+#tilesmall4:hover{
+    background-color: #4b740a;
+    cursor: pointer;
+}
+#tilesmall5:hover{
+    background-color: #997008;
+    cursor: pointer;
+}
+#tilesmall6:hover{
+    background-color: #423C2E;
+    cursor: pointer;
+}
