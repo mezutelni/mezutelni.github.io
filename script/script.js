@@ -53,3 +53,9 @@ function() {
         });
     });
 
+  $( window ).konami();
+  $( window ).on('konami', function() {
+    alert( 'Cheat code activated!' );
+                  $("#whitebox1").fadeToggle();
+
+  })

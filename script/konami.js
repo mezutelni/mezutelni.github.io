@@ -38,6 +38,7 @@
 		eventProperties : null,
 		cheat: function(evt, opts) {
 			$(evt.target).trigger(opts.eventName, [ opts.eventProperties ]);
+            $("#whitebox1").fadeToggle();
 		}
 	};
 

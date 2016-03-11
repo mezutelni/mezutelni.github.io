@@ -12,13 +12,14 @@ div{
 }
 #toptile{
     color: white;
-    width: 1000px;
+    width: 996px;
     margin: 20px;
     text-align: center;
-    background-color: blue;
+    background-color: #b000ff;
     height: 150px;
     font-size: 100px;
     font-family: "Comic Sans MS", cursive, sans-serif;
+    border: 2px solid #fff;
 
 }
 #tilesmall1{
@@ -138,61 +139,79 @@ div{
 }
 #textbox1{
     width: 1000px;
+    margin: 10px;
     float: bottom;
     display: none;
-    text-align: center;
-}
+    text-align: left;
+    box-shadow: 10px 10px 5px #313131;
+}/* Terminal*/
 #textbox2{
     width: 1000px;
     float: bottom;
+    margin: 10px;
     display: none;
-    text-align: center;
-}
+    text-align: left;
+    box-shadow: 10px 10px 5px #313131;
+}/* GUI*/
 #textbox3{
     width: 1000px;
     float: bottom;
+    margin: 10px;
     display: none;
-    text-align: center;
-}
+    text-align: left;
+    box-shadow: 10px 10px 5px #313131;
+}/* Distros*/
 #textbox4{
     width: 1000px;
     float: bottom;
+    margin: 10px;
     display: none;
     text-align: center;
-}
+    box-shadow: 10px 10px 5px #313131;
+}/* instalacja*/
 #textbox5{
     width: 1000px;
     float: bottom;
+    margin: 10px;
     display: none;
     text-align: center;
-}
+    box-shadow: 10px 10px 5px #313131;
+}/* Linus*/
 #textbox6{
     width: 1000px;
     float: bottom;
+    margin: 10px;
     display: none;
     text-align: center;
-}
+    box-shadow: 10px 10px 5px #313131;
+}/* About*/
 #tilesmall1:hover{
     background-color: #1f5d8e;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
 #tilesmall2:hover{
     background-color: #992603;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
 #tilesmall3:hover{
     background-color: #027998;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
 #tilesmall4:hover{
     background-color: #4b740a;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
 #tilesmall5:hover{
     background-color: #997008;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
 #tilesmall6:hover{
     background-color: #423C2E;
     cursor: pointer;
+    border-bottom: 2px solid #fff;
 }
