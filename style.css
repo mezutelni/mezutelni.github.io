@@ -67,7 +67,7 @@ div{
     float: left;
     width: 150px;
     height: 150px;
-    background-color: #3bb68e;
+    background-color: #85795c;
     margin-left: 20px;
     margin-bottom: 20px;
 }
@@ -84,7 +84,7 @@ div{
     float: bottom;
     margin-top: 20px;
     margin-left: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -94,7 +94,7 @@ div{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -104,7 +104,7 @@ div{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -114,7 +114,7 @@ div{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -124,7 +124,7 @@ div{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -134,7 +134,7 @@ div{
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    background-color: #c2c2c2;
+    background-color: white;
     height: auto;
     display: none;
 }
@@ -212,7 +212,7 @@ div{
     border-bottom: 2px solid #fff;
 }
 #tilesmall6:hover{
-    background-color: #236d55;
+    background-color: #423C2E;
     cursor: pointer;
     border-bottom: 2px solid #fff;
 }
