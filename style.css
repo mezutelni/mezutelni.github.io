@@ -175,9 +175,9 @@ div{
     float: bottom;
     margin: 10px;
     display: none;
-    text-align: center;
+    text-align: left;
     box-shadow: 10px 10px 5px #313131;
-}/* Linus*/
+}/* Linux*/
 #textbox6{
     width: 990px;
     float: bottom;
@@ -215,4 +215,7 @@ div{
     background-color: #423C2E;
     cursor: pointer;
     border-bottom: 2px solid #fff;
+}
+#whiteboxgroup{
+    border-top: 5px solid white;
 }

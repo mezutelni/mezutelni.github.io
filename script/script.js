@@ -1,4 +1,13 @@
-        $(document).ready(
+  $(document).ready(
+function() {
+        $("#tilesmall5").click(function() {
+            $("#whitebox5").fadeToggle();
+        });
+         $("#tilesmall5").click(function() {
+            $("#textbox5").fadeToggle();
+        });
+    });
+ $(document).ready(
     function() {
         $("#tilesmall1").click(function() {
             $("#whitebox1").fadeToggle();
@@ -34,15 +43,7 @@ function() {
             $("#textbox4").fadeToggle();
         });
     });
-  $(document).ready(
-function() {
-        $("#tilesmall5").click(function() {
-            $("#whitebox5").fadeToggle();
-        });
-         $("#tilesmall5").click(function() {
-            $("#textbox5").fadeToggle();
-        });
-    });
+
   $(document).ready(
 function() {
         $("#tilesmall6").click(function() {
